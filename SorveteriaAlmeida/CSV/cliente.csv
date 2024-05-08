@@ -1,0 +1,102 @@
+cliente_id;nome;email;telefone;data_nascimento
+1;Ana Beatriz de Oliveira;ana.oliveira@exemplo.com;(19) 8061-4084;13/05/1989
+2;Felipe Martins Carvalho;felipe.carvalho@exemplo.com;(19) 4108-8056;14/08/1996
+3;Ricardo Neves;ricardo.neves@exemplo.com;(19) 9455-4901;18/05/1974
+4;Lucas Ferreira Lima;lucas.lima@exemplo.com;(19) 9449-9447;24/10/1995
+5;Matheus Henrique de Souza;matheus.souza@exemplo.com;(19) 9831-5430;07/07/1978
+6;André Luiz Santos;andré.santos@exemplo.com;(19) 7198-5372;08/08/1987
+7;Jorge Fernandes;jorge.fernandes@exemplo.com;(19) 5221-5481;12/02/2003
+8;Sérgio Rocha;sérgio.rocha@exemplo.com;(19) 2445-9595;02/08/1965
+9;Isabela Ferreira;isabela.ferreira@exemplo.com;(19) 2040-5828;18/02/1983
+10;Camila Rocha;camila.rocha@exemplo.com;(19) 2202-3806;19/04/1998
+11;Maria Clara dos Santos;maria.santos@exemplo.com;(19) 9286-4965;14/04/1991
+12;Leonardo Martins;leonardo.martins@exemplo.com;(19) 6397-4307;09/01/1976
+13;Márcio Silva;márcio.silva@exemplo.com;(19) 9362-6482;04/10/1997
+14;Gustavo Henrique;gustavo.henrique@exemplo.com;(19) 3139-2629;08/12/1975
+15;Vinícius Costa;vinícius.costa@exemplo.com;(19) 6281-6545;01/10/1972
+16;Heitor Vilela;heitor.vilela@exemplo.com;(19) 8675-4934;03/03/2004
+17;Oscar Neto;oscar.neto@exemplo.com;(19) 4008-6016;16/09/1966
+18;Ricardo Neves;ricardo.neves@exemplo.com;(19) 8486-2659;03/06/1974
+19;Eduardo Pereira Gomes;eduardo.gomes@exemplo.com;(19) 5070-3711;02/10/1966
+20;Roberto Souza;roberto.souza@exemplo.com;(19) 5680-8011;19/11/2000
+21;Lucas Ferreira Lima;lucas.lima@exemplo.com;(19) 7797-3541;03/05/1995
+22;Matheus Henrique de Souza;matheus.souza@exemplo.com;(19) 8039-7403;18/04/1978
+23;André Luiz Santos;andré.santos@exemplo.com;(19) 4837-2466;25/11/1987
+24;Carla Dias;carla.dias@exemplo.com;(19) 9513-5544;21/11/1995
+25;Jorge Fernandes;jorge.fernandes@exemplo.com;(19) 6387-3996;05/06/2003
+26;Sérgio Rocha;sérgio.rocha@exemplo.com;(19) 3703-8807;20/03/1965
+27;Maria Clara dos Santos;maria.santos@exemplo.com;(19) 8959-8304;17/03/1991
+28;Leonardo Martins;leonardo.martins@exemplo.com;(19) 4043-3085;06/01/1976
+29;Márcio Silva;márcio.silva@exemplo.com;(19) 8053-6051;12/02/1997
+30;Vinícius Costa;vinícius.costa@exemplo.com;(19) 6932-1313;21/05/1972
+31;Heitor Vilela;heitor.vilela@exemplo.com;(19) 6487-6494;26/04/2004
+32;Ricardo Neves;ricardo.neves@exemplo.com;(19) 7268-9205;07/03/1974
+33;Lucas Ferreira Lima;lucas.lima@exemplo.com;(19) 6336-1476;12/05/1995
+34;Matheus Henrique de Souza;matheus.souza@exemplo.com;(19) 3877-3169;04/05/1978
+35;André Luiz Santos;andré.santos@exemplo.com;(19) 5440-2295;06/06/1987
+36;Jorge Fernandes;jorge.fernandes@exemplo.com;(19) 6682-7456;09/01/2003
+37;Sérgio Rocha;sérgio.rocha@exemplo.com;(19) 5532-9546;13/05/1965
+38;Maria Clara dos Santos;maria.santos@exemplo.com;(19) 7765-5777;15/10/1991
+39;Leonardo Martins;leonardo.martins@exemplo.com;(19) 5350-7031;19/03/1976
+40;Márcio Silva;márcio.silva@exemplo.com;(19) 6086-2068;13/06/1997
+41;Vinícius Costa;vinícius.costa@exemplo.com;(19) 7038-8283;27/09/1972
+42;Heitor Vilela;heitor.vilela@exemplo.com;(19) 4423-1250;21/10/2004
+43;Ricardo Neves;ricardo.neves@exemplo.com;(19) 1221-8157;27/07/1974
+44;Lucas Ferreira Lima;lucas.lima@exemplo.com;(19) 4360-2526;26/07/1995
+45;Matheus Henrique de Souza;matheus.souza@exemplo.com;(19) 1081-3726;20/03/1978
+46;André Luiz Santos;andré.santos@exemplo.com;(19) 3635-9265;14/08/1987
+47;Jorge Fernandes;jorge.fernandes@exemplo.com;(19) 2534-1765;26/07/2003
+48;Sérgio Rocha;sérgio.rocha@exemplo.com;(19) 2232-3499;22/05/1965
+49;Maria Clara dos Santos;maria.santos@exemplo.com;(19) 4057-8544;14/08/1991
+50;Leonardo Martins;leonardo.martins@exemplo.com;(19) 4718-3611;13/06/1976
+51;Márcio Silva;márcio.silva@exemplo.com;(19) 2104-7193;13/09/1997
+52;Vinícius Costa;vinícius.costa@exemplo.com;(19) 4850-9946;28/06/1972
+53;Heitor Vilela;heitor.vilela@exemplo.com;(19) 4049-8314;06/08/2004
+54;Ricardo Neves;ricardo.neves@exemplo.com;(19) 9156-2430;27/04/1974
+55;Lucas Ferreira Lima;lucas.lima@exemplo.com;(19) 2087-3955;02/08/1995
+56;Matheus Henrique de Souza;matheus.souza@exemplo.com;(19) 1394-3110;28/11/1978
+57;André Luiz Santos;andré.santos@exemplo.com;(19) 5910-4995;07/04/1987
+58;Jorge Fernandes;jorge.fernandes@exemplo.com;(19) 3519-6742;19/10/2003
+59;Sérgio Rocha;sérgio.rocha@exemplo.com;(19) 5622-6033;26/05/1965
+60;Maria Clara dos Santos;maria.santos@exemplo.com;(19) 4441-8174;25/02/1991
+61;Leonardo Martins;leonardo.martins@exemplo.com;(19) 2169-1843;02/06/1976
+62;Márcio Silva;márcio.silva@exemplo.com;(19) 5963-7758;20/05/1997
+63;Vinícius Costa;vinícius.costa@exemplo.com;(19) 3751-5293;16/07/1972
+64;Heitor Vilela;heitor.vilela@exemplo.com;(19) 1939-4542;15/05/2004
+65;Ricardo Neves;ricardo.neves@exemplo.com;(19) 5150-6156;17/08/1974
+66;Carla Dias;carla.dias@exemplo.com;(19) 9979-6224;10/08/1995
+67;Patricia Moraes;patricia.moraes@exemplo.com;(19) 8051-5490;16/06/1978
+68;Elisa Campos;elisa.campos@exemplo.com;(19) 5898-5087;02/04/1988
+69;Luiz Otávio Pereira;luiz.pereira@exemplo.com;(19) 1192-3283;11/06/1993
+70;Antônio Carlos Jobim;antônio.jobim@exemplo.com;(19) 8139-9610;21/10/1987
+71;Fernando Pessoa;fernando.pessoa@exemplo.com;(19) 9203-5642;05/07/1969
+72;Vicente Ferreira;vicente.ferreira@exemplo.com;(19) 2311-1636;06/05/1981
+73;Lucas Gabriel das Neves;lucas.neves@exemplo.com;(19) 7114-6296;07/02/1959
+74;Fernando Peixoto;fernando.peixoto@exemplo.com;(19) 7214-7983;12/07/1955
+75;Marina Lopes;marina.lopes@exemplo.com;(19) 1098-4774;24/09/1958
+76;Henrique Azevedo;henrique.azevedo@exemplo.com;(19) 4117-2805;24/10/2005
+77;Lara Almeida;lara.almeida@exemplo.com;(19) 7700-5707;27/02/2006
+78;Lucas Gabriel Duarte;lucas.duarte@exemplo.com;(19) 6974-5412;10/09/1959
+79;Augusto Ferreira;augusto.ferreira@exemplo.com;(19) 4794-2747;24/05/1995
+80;Dra. Alexia Pires;dra..pires@exemplo.com;(19) 6826-2938;07/03/2002
+81;Rebeca Dias;rebeca.dias@exemplo.com;(19) 8295-8703;20/05/1970
+82;Luigi Souza;luigi.souza@exemplo.com;(19) 3197-1232;24/09/1975
+83;Ana Sophia Porto;ana.porto@exemplo.com;(19) 1051-9340;25/11/1998
+84;Davi Luiz Lima;davi.lima@exemplo.com;(19) 9566-7407;22/01/1966
+85;Lívia Moura;lívia.moura@exemplo.com;(19) 9419-9696;10/08/1972
+86;Ana Sophia Nunes;ana.nunes@exemplo.com;(19) 8045-1233;01/11/1988
+87;Benjamin Barros;benjamin.barros@exemplo.com;(19) 5416-5443;21/11/1959
+88;Srta. Pietra Cardoso;srta..cardoso@exemplo.com;(19) 5373-6346;01/03/1991
+89;Dr. João Vitor Rodrigues;dr..rodrigues@exemplo.com;(19) 8541-3328;02/08/2004
+90;Elisa Caldeira;elisa.caldeira@exemplo.com;(19) 6867-6386;23/08/1987
+91;Pedro Miguel Nogueira;pedro.nogueira@exemplo.com;(19) 3992-5138;25/09/1983
+92;Clarice da Mota;clarice.mota@exemplo.com;(19) 7239-1455;21/12/1974
+93;Thomas Costela;thomas.costela@exemplo.com;(19) 5602-9095;06/01/1983
+94;Carolina Aragão;carolina.aragão@exemplo.com;(19) 2059-9033;27/01/1955
+95;Dr. Lorenzo Oliveira;dr..oliveira@exemplo.com;(19) 3802-8228;18/03/1996
+96;Ian Santos;ian.santos@exemplo.com;(19) 8206-7828;28/11/1958
+97;Sra. Gabrielly Barros;sra..barros@exemplo.com;(19) 8595-9044;02/01/1999
+98;Dr. Levi Rodrigues;dr..rodrigues@exemplo.com;(19) 4785-7787;22/10/1971
+99;Antônio Fogaça;antônio.fogaça@exemplo.com;(19) 7793-7027;28/06/1969
+100;Erick Caldeira;erick.caldeira@exemplo.com;(19) 2553-7100;15/06/1967
+101;Vitor Moreira;vitor.moreira@exemplo.com;(19) 1655-9761;18/10/1987

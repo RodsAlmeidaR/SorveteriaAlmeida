@@ -1,0 +1,6 @@
+funcionario_id;nome;cargo;data_contratacao;nivel_experiencia;qualificacoes
+1;Luiza Martins;Atendente;10/01/2023;Avançado;Gestão de Negócios
+2;Ricardo Gomes;Atendente;10/01/2023;Intermediário;Atendimento ao Cliente
+3;Patrícia Nogueira;Gerente;20/02/2023;Intermediário;Atendimento ao Cliente
+4;Eduardo Souza;Auxiliar de Cozinha;10/01/2023;Avançado;Cursos de Gastronomia
+5;Sofia Cardoso;Caixa;15/03/2023;Avançado;Cursos de Gastronomia
