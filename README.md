@@ -10,10 +10,10 @@ A Sorveteria Almeida enfrenta uma queda significativa nas vendas durante os mese
 Os dados utilizados neste projeto foram extraídos do sistema de vendas da Sorveteria Almeida, abrangendo um período de dois anos. As informações foram limpas e transformadas para adequação ao modelo de data warehouse.
 
 ## Arquitetura do Sistema
-O projeto utiliza o Microsoft SQL Server para hospedar o data warehouse on-premise. A seguir está o diagrama da arquitetura OLTP que representa a estrutura original dos dados:
+O projeto utiliza o Microsoft SQL Server para hospedar o data warehouse on-premise. 
 
 ## Modelo de Dados
-O modelo multidimensional (Star Schema) foi adotado para este data warehouse, composto por uma tabela de fatos (Vendas) e quatro dimensões: Produto, Tempo, Cliente e Promoção.
+O modelo multidimensional (Star Schema) foi adotado para este data warehouse, composto por uma tabela de fatos e quatro dimensões.
 
 ## Desenvolvimento
 O processo de desenvolvimento incluiu a extração dos dados, a transformação para ajustar os critérios do modelo dimensional e o carregamento no data warehouse. Detalhes adicionais e scripts SQL podem ser encontrados nas pastas correspondentes deste repositório.
